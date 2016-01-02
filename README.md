@@ -2,6 +2,8 @@
 Game made by my group for our game development class.
 
 My code:
-AI/*<br/>
-Bullet/*<br/>
-SearchPoints/*
+<ul>
+<li>AI/*</li>
+<li>Bullet/*</li>
+<li>SearchPoints/*</li>
+</ul>
