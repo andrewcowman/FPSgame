@@ -3,7 +3,7 @@ Game made by my group for our game development class.
 
 My code:
 <ul>
-<li>AI/*</li>
-<li>Bullet/*</li>
-<li>SearchPoints/*</li>
+<li>Assets/AI/*</li>
+<li>Assets/Bullet/*</li>
+<li>Assets/SearchPoints/*</li>
 </ul>
